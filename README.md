@@ -25,6 +25,6 @@ No	Menu	          Harga
 No	Menu	            Harga
 1	Es Teh / Hangat	   Rp3.000
 2	Caramel Machiato   Rp12.000
-3	Cappuccino	     Rp7.000
-4	Jus Alpukat	     Rp11.000
+3	Cappuccino	   Rp7.000
+4	Jus Alpukat	   Rp11.000
 ```
