@@ -16,6 +16,15 @@ Program ini adalah aplikasi kasir sederhana untuk kantin sekolah, dibuat menggun
 ```
 No	Menu	          Harga
 1	Nasi Geprek	    Rp12.000
-2	Nasi Bungkus	  Rp10.000
+2	Nasi Bungkus	   Rp10.000
 3	Nasi Goreng	    Rp12.000
+```
+### 🍹 Minuman
+
+```
+No	Menu	            Harga
+1	Es Teh / Hangat	   Rp3.000
+2	Caramel Machiato   Rp12.000
+3	Cappuccino	       Rp7.000
+4	Jus Alpukat	       Rp11.000
 ```
