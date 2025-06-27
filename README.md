@@ -31,6 +31,7 @@ No	Menu	            Harga
 ## 💻 Cara Menjalankan
 1. Clone Repositori
    ```
+   git clone https://github.com/dhnnnn/kantinPOS.git
    ```
 2. Compile Program
    ```
