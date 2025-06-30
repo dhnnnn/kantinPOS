@@ -2,6 +2,8 @@
 
 Program ini adalah aplikasi kasir sederhana untuk kantin sekolah, dibuat menggunakan bahasa **C++** dan dijalankan melalui terminal. Pengguna dapat memilih menu makanan/minuman, memasukkan jumlah pesanan, dan sistem akan menampilkan total harga serta kembalian.
 
+yayayaou
+
 ## 📋 Fitur Utama
 
 - Menampilkan daftar menu makanan dan minuman.
