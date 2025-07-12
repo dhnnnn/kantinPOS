@@ -11,6 +11,12 @@ Program ini adalah aplikasi kasir sederhana untuk kantin sekolah, dibuat menggun
 - Menampilkan invoice (struk) pembayaran.
 - Menghitung total bayar dan kembalian.
 
+
+
+
+
+
+
 ## 🧾 Daftar Menu
 ### 🍽️ Makanan
 
