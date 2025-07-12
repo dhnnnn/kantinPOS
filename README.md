@@ -13,8 +13,6 @@ Program ini adalah aplikasi kasir sederhana untuk kantin sekolah, dibuat menggun
 
 
 
-
-
 ## 🧾 Daftar Menu
 ### 🍽️ Makanan
 
