@@ -8,7 +8,7 @@ Program ini adalah aplikasi kasir sederhana untuk kantin sekolah, dibuat menggun
 - Mendukung pemesanan lebih dari satu item.
 - Menghitung subtotal otomatis berdasarkan jumlah dan harga.
 - Menampilkan invoice (struk) pembayaran.
-- Menghitung total bayar dan kembalian.p
+- Menghitung total bayar dan kembalian.
 
 ## 🧾 Daftar Menu
 ### 🍽️ Makanan
