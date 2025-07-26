@@ -72,7 +72,6 @@ int main(){
 	for (int a=0;a<i;a++){
 		  cout<<a+1<<"	"<<menu[a]<<"	"<<harga[a]<<"		"<<jumlah[a]<<"		"<<sub_total[a]<<endl;
 	}
-	juhjjj
 	cout<<"----------------------------------------------------------------------"<<endl;
 	cout<<"Total Harga= Rp."<<total_bayar<<endl;
     float a,b;
